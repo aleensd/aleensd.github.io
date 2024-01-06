@@ -1,4 +1,7 @@
-# Software Engineer
+# About Me
+I'm a passionate full-stack developer with strong experience in Python and Next.js. With almost 3 years of experience in this field, I've had the opportunity to work on a variety of projects. My expertise lies in front-end development, such as Nextjs, Tailwind CSS, Storybook, typescript, and backend development, such as Python, FastApi, PostgreSQL, and Redis.
+
+I'm dedicated to creating scalable software solutions. Whether it's optimising code for performance, collaborating with cross-functional teams, or staying updated on the latest industry trends, I thrive in dynamic environments.
 
 ## Projects
 ### OTC App
