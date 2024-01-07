@@ -11,3 +11,13 @@ It is a trading app, a decentralized platform that facilitates Over-the-Counter 
 3. Using FIX(Financial Information eXchange) to develop a service that facilitates secure and standardized communication for client orders and sending our order book
 4. Using Redis Stream to faciltate a relaible data handling between services.
 5. Developing end-to-end testing using cypress
+
+### Trading PMS
+It is a digital asset trading portfolio management system designed for traders and financial investors to manage theirs investment portfolios. It shows their real-time trades , balance and positions.
+It also has tool that genrates detailed reports to aid decision-making.
+1. Developing ui features using AngularJs and Devextreme
+2. Integrating/developing web api using ASP.Net and PostgresSql
+3. Integrating external Apis for exchanges
+4. bug fixing and sql query optimization
+
+
