@@ -12,6 +12,7 @@ It is a trading app, a decentralized platform that facilitates Over-the-Counter 
 4. Using Redis Stream to faciltate a relaible data handling between services.
 5. Developing end-to-end testing using cypress
 6. Creating Excel Add-in for real time pricing using PyXLL
+7. Creating Email Automation system using Make (Integromat)
 
 ### Trading PMS
 It is a digital asset trading portfolio management system designed for traders and financial investors to manage theirs investment portfolios. It shows their real-time trades , balance and positions.
