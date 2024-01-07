@@ -22,7 +22,7 @@ It also has tool that genrates detailed reports to aid decision-making.
 3. Integrating external Apis for exchanges
 4. bug fixing and sql query optimization
 
-### [Business sharing resources platform] https://drive.google.com/drive/folders/12XIh0OvdXa-wedq04ys63KBrNcbxxaps?usp=sharing
+### [Business sharing resources platform](https://drive.google.com/drive/folders/12XIh0OvdXa-wedq04ys63KBrNcbxxaps?usp=sharing)
 This app aims for business continuity.It help different types of businesses share resources with other businesses that can help them to continue and stay as competitors in the marketplace. They will be able to either show their resources or share resources from other businesses. Moreover, businesses will have access to a consultancy over the platform that will help them take decisions.
 1. Developing a ui app using NextJs and Tailwind CSS
 2. Developing apis using Asp.Net Core and SQL
