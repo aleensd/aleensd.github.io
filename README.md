@@ -28,5 +28,8 @@ This app aims for business continuity. It helps different types of businesses sh
 3. Using Minio to save users' images and their analytical files
 
 
+# [Resume](https://drive.google.com/drive/folders/1T9cHOHSkkJZE4ppkAnG1p0SXQfOo0WvT?usp=drive_link)
+
+
 
 
