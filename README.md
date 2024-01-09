@@ -21,7 +21,7 @@ It is a digital asset trading portfolio management system designed for traders a
 3. Integrating external APIs for exchanges
 4. Fixing bugs and SQL query optimization
 
-### [Business sharing resources platform](https://drive.google.com/drive/folders/12XIh0OvdXa-wedq04ys63KBrNcbxxaps?usp=sharing)
+### Business sharing resources platform
 This app aims for business continuity. It helps different types of businesses share resources with other businesses that can help them continue and stay as competitors in the marketplace. They will be able to either show their resources or share resources from other businesses. Moreover, businesses will have access to a consulting platform that will help them make decisions.
 1. Developing a UI app using NextJs and Tailwind CSS
 2. Developing APIs using Asp.Net Core and SQL
